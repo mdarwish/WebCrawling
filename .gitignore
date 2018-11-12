@@ -17,12 +17,13 @@
 
 # IDE - VSCode
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 # misc
 *.log
+/UFC.mma/__pycache__
+/UFC.mma/.ipynb_*
+*.pptx
 
+Tutorials/UFC.mma/.ipynb_checkpoints/FightersHistory-checkpoint.ipynb
+Tutorials/UFC.mma/~$fighters_records-sorted.xlsx
 
