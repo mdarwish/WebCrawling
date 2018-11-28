@@ -22,9 +22,9 @@
 *.log
 /UFC.mma/__pycache__
 /UFC.mma/.ipynb_*
-Models/*
+Models/*.sav
 *.pptx
-
+Models/*.pkcls
 
 Tutorials/UFC.mma/.ipynb_checkpoints/FightersHistory-checkpoint.ipynb
 Tutorials/UFC.mma/~$fighters_records-sorted.xlsx
