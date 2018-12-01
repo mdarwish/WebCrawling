@@ -1,0 +1,22 @@
+header {
+    height: 50px; 
+    background: lightblue;
+    color: darkgray;
+    display: block;
+    border-style: solid;
+}
+.main {
+    height: 60%;
+    background: rgb(220,220,220);
+    color: darkgray;
+    display: block;
+    border-style: solid;
+}
+
+footer {
+   height: 20% ;
+    background: rgb(220,220,220);
+    color: darkgray;
+    display: block;
+    border-style: solid;
+}
