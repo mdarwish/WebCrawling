@@ -4,10 +4,14 @@ UFC website lists only 20 players of of their full list of registered fighters p
 
 ![alt text](./AllUFC-WeightClassIndex.png)
 ## Here how the task was organized:
+
 ![alt text](./WebCrawling/Slide2.PNG)
 
 ## The Model:
+
 ![alt text](./Modeling/ML-Workflow.PNG)
 
 ## UI Concept:
-![alt text](./UX/UFC_Predictor_Template.gif)
+
+<div style="text-align:center"><img src ="./UX/UFC_Predictor_Template.gif" /></div>
+
