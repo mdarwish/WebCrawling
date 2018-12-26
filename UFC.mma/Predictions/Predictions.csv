@@ -1,0 +1,245 @@
+Selected,event_name,details,event_date,result,winner,fighter1,fighter2,Neural Network,Random Forest,AdaBoost,winner_lable
+discrete,string,discrete,continuous,discrete,string,string,string,discrete,discrete,discrete,discrete
+class,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Vicente Luque,Vicente Luque,Jalin Turner,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Vicente Luque,Vicente Luque,Jalin Turner,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Tony Ferguson,Tony Ferguson,Anthony Pettis,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Tony Ferguson,Tony Ferguson,Anthony Pettis,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Scott Holtzman,Scott Holtzman,Alan Patrick,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Scott Holtzman,Scott Holtzman,Alan Patrick,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Michelle Waterson,Michelle Waterson,Felice Herrig,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Michelle Waterson,Michelle Waterson,Felice Herrig,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Title,Khabib Nurmagomedov,Khabib Nurmagomedov,Conor McGregor,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Khabib Nurmagomedov,Khabib Nurmagomedov,Conor McGregor,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Derrick Lewis,Derrick Lewis,Alexander Volkov,2,2,2,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Derrick Lewis,Derrick Lewis,Alexander Volkov,2,2,2,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Aspen Ladd,Aspen Ladd,Tonya Evinger,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Aspen Ladd,Aspen Ladd,Tonya Evinger,1,1,1,1
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Jussier Formiga,Sergio Pettis,Jussier Formiga,1,2,2,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Jussier Formiga,Sergio Pettis,Jussier Formiga,1,2,2,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Tony Martin,Ryan LaFlare,Tony Martin,2,2,1,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Tony Martin,Ryan LaFlare,Tony Martin,2,2,1,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Dominick Reyes,Ovince Saint Preux,Dominick Reyes,2,2,2,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Dominick Reyes,Ovince Saint Preux,Dominick Reyes,2,2,2,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Yana Kunitskaya,Lina Lansberg,Yana Kunitskaya,2,2,2,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Yana Kunitskaya,Lina Lansberg,Yana Kunitskaya,2,2,2,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Win,Nik Lentz,Gray Maynard,Nik Lentz,2,2,2,2
+No,UFC 229 Khabib vs McGregor,Live on Pay-Per-View,43379.0,Loss,Nik Lentz,Gray Maynard,Nik Lentz,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Misha Cirkunov,Misha Cirkunov,Patrick Cummins,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Misha Cirkunov,Misha Cirkunov,Patrick Cummins,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Michael Johnson,Michael Johnson,Artem Lobov,1,1,2,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Michael Johnson,Michael Johnson,Artem Lobov,1,1,2,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Gian Villante,Gian Villante,Ed Herman,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Gian Villante,Gian Villante,Ed Herman,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Calvin Kattar,Calvin Kattar,Chris Fishgold,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Calvin Kattar,Calvin Kattar,Chris Fishgold,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Arjan Singh Bhullar,Arjan Singh Bhullar,Marcelo Golm,1,1,2,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Arjan Singh Bhullar,Arjan Singh Bhullar,Marcelo Golm,1,1,2,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Andre Soukhamthath,Andre Soukhamthath,Jonathan Martinez,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Andre Soukhamthath,Andre Soukhamthath,Jonathan Martinez,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Anthony Smith,Volkan Oezdemir,Anthony Smith,1,1,1,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Anthony Smith,Volkan Oezdemir,Anthony Smith,1,1,1,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Nasrat Haqparast,Thibault Gouti,Nasrat Haqparast,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Nasrat Haqparast,Thibault Gouti,Nasrat Haqparast,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Don Madge,Te Edwards,Don Madge,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Don Madge,Te Edwards,Don Madge,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Stevie Ray,Stevie Ray,Jessin Ayari,1,1,1,1
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Talita Bernardo,Sarah Moras,Talita Bernardo,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Talita Bernardo,Sarah Moras,Talita Bernardo,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Sean Strickland,Nordine Taleb,Sean Strickland,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Sean Strickland,Nordine Taleb,Sean Strickland,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Win,Court McGee,Alex Garcia,Court McGee,2,2,2,2
+No,UFC Fight Night Volkan vs Smith,Live on TSN 5,43400.0,Loss,Court McGee,Alex Garcia,Court McGee,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Sijara Eubanks,Sijara Eubanks,Roxanne Modafferi,1,1,1,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Sijara Eubanks,Sijara Eubanks,Roxanne Modafferi,1,1,1,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Shane Burgos,Shane Burgos,Kurt Holobaugh,1,1,2,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Shane Burgos,Shane Burgos,Kurt Holobaugh,1,1,2,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Lyman Good,Lyman Good,Ben Saunders,1,1,1,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Lyman Good,Lyman Good,Ben Saunders,1,1,1,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Karl Roberson,Karl Roberson,Jack Marshman,1,1,1,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Karl Roberson,Karl Roberson,Jack Marshman,1,1,1,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Title,Daniel Cormier,Daniel Cormier,Derrick Lewis,1,1,1,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Daniel Cormier,Daniel Cormier,Derrick Lewis,1,1,1,1
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Sheymon Moraes,Julio Arce,Sheymon Moraes,1,1,1,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Sheymon Moraes,Julio Arce,Sheymon Moraes,1,1,1,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Jordan Rinaldi,Jason Knight,Jordan Rinaldi,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Jordan Rinaldi,Jason Knight,Jordan Rinaldi,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Israel Adesanya,Derek Brunson,Israel Adesanya,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Israel Adesanya,Derek Brunson,Israel Adesanya,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Jared Cannonier,David Branch,Jared Cannonier,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Jared Cannonier,David Branch,Jared Cannonier,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Ronaldo Souza,Chris Weidman,Ronaldo Souza,2,1,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Ronaldo Souza,Chris Weidman,Ronaldo Souza,2,1,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Win,Marcos Rogerio De Lima,Adam Wieczorek,Marcos Rogerio De Lima,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,Loss,Marcos Rogerio De Lima,Adam Wieczorek,Marcos Rogerio De Lima,2,2,2,2
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,DRAW,DRAW,Matt Frevola,Lando Vannata,1,1,1,0
+No,UFC 230 Cormier vs Lewis,Live on Pay-Per-View,43407.0,DRAW,DRAW,Matt Frevola,Lando Vannata,1,1,1,0
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Loss,42,Raquel Pennington,Germaine de Randamie,1,1,1,42
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Win,Raquel Pennington,Raquel Pennington,Germaine de Randamie,1,1,1,1
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Loss,Michael Trizano,Michael Trizano,Luis Pena,1,1,1,1
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Win,Michael Trizano,Michael Trizano,Luis Pena,1,1,1,1
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Loss,Mark De La Rosa,Mark De La Rosa,Joby Sanchez,1,1,1,1
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Win,Mark De La Rosa,Mark De La Rosa,Joby Sanchez,1,1,1,1
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Win,Eric Shelton,Joseph Morales,Eric Shelton,1,2,2,2
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Loss,Eric Shelton,Joseph Morales,Eric Shelton,1,2,2,2
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Win,Donald Cerrone,Donald Cerrone,Mike Perry,1,1,1,1
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Loss,Donald Cerrone,Donald Cerrone,Mike Perry,1,1,1,1
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Loss,Devonte Smith,Devonte Smith,Julian Erosa,1,2,2,1
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Win,Davi Ramos,Davi Ramos,John Gunther,1,1,2,1
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Loss,Davi Ramos,Davi Ramos,John Gunther,1,1,2,1
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Loss,Bobby Moffett,Chas Skelly,Bobby Moffett,1,1,1,2
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Loss,Yair Rodriguez,Chan Sung Jung,Yair Rodriguez,1,1,1,2
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Win,Yair Rodriguez,Chan Sung Jung,Yair Rodriguez,1,1,1,2
+No,UFC Fight Night,Korean Zombie vs. Rodriguez,43414.0,Win,Beneil Dariush,Beneil Dariush,Thiago Moises,1,1,1,1
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Loss,Ashley Yoder,Ashley Yoder,Amanda Cooper,1,1,1,1
+No,UFC Fight Night Korean Zombie vs Rodriguez,Live on TSN 5,43414.0,Win,Ashley Yoder,Ashley Yoder,Amanda Cooper,1,1,1,1
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Ricardo Lamas,Darren Elkins,1,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Ricardo Lamas,Darren Elkins,1,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Neil Magny,Santiago Ponzinibbio,1,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Neil Magny,Santiago Ponzinibbio,1,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Michel Prazeres,Bartosz Fabinski,1,1,1,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Michel Prazeres,Bartosz Fabinski,1,1,1,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Laureano Staropoli,Hector Aldana,1,2,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Khalil Rountree Jr.,Johnny Walker,1,1,1,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Humberto Bandenay,Austin Arnett,1,2,1,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Humberto Bandenay,Austin Arnett,1,2,1,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Guido Cannetti,Marlon Vera,1,2,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Guido Cannetti,Marlon Vera,1,2,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Enrique Barzola,Nad Narimani,1,1,1,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Enrique Barzola,Nad Narimani,1,1,1,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Devin Powell,Jesus Pinedo,1,2,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Cynthia Calvillo,Poliana Botelho,1,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Cynthia Calvillo,Poliana Botelho,1,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Cezar Ferreira,Tom Breese,2,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Cezar Ferreira,Tom Breese,2,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Alexandre Pantoja,Ulka Sasaki,1,1,2,42
+No,UFC Fight Night,Magny vs. Ponzinibbio,43421.0,UPCOMING,42,Alexandre Pantoja,Ulka Sasaki,1,1,2,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Yan Xiaonan,Syuri Kondo,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Yan Xiaonan,Syuri Kondo,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Yan Xiaonan,Syuri Kondo,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Wu Yanan,Lauren Mueller,1,2,2,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Wu Yanan,Lauren Mueller,1,2,2,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Weili Zhang,Jessica Aguilar,1,2,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Weili Zhang,Jessica Aguilar,1,2,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Song Yadong,Frankie Saenz,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Song Yadong,Frankie Saenz,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Song Kenan,Alex Morono,1,2,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Song Kenan,Alex Morono,1,2,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Li Jingliang,Elizeu Zaleski dos Santos,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Hu Yaozong,Rashad Coulter,1,2,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Hu Yaozong,Rashad Coulter,1,2,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Elizeu Zaleski dos Santos,Li Jingliang,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Curtis Blaydes,Francis Ngannou,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Curtis Blaydes,Francis Ngannou,1,1,1,42
+No,UFC Fight Night,Blaydes vs. Ngannou 2,43428.0,UPCOMING,42,Alistair Overeem,Sergei Pavlovich,1,1,2,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Tim Means,Ricky Rainey,1,1,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Tim Means,Ricky Rainey,1,1,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Roosevelt Roberts,Darrell Horcher,1,2,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Rick Glenn,Arnold Allen,1,1,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Rick Glenn,Arnold Allen,1,1,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Rafael Dos Anjos,Kamaru Usman,1,1,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Rafael Dos Anjos,Kamaru Usman,1,1,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Pedro Munhoz,Bryan Caraway,1,1,2,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Pedro Munhoz,Bryan Caraway,1,1,2,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Darren Stewart,Edmen Shahbazyan,1,1,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Boston Salmon,Khalid Taha,1,2,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Boston Salmon,Khalid Taha,1,2,1,42
+No,UFC - TUF 28 Finale,,43434.0,UPCOMING,42,Ashlee Evans-Smith,Antonina Shevchenko,1,1,2,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Yushin Okami,Aleksei Kunchenko,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Yushin Okami,Aleksei Kunchenko,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Wilson Reis,Ben Nguyen,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Wilson Reis,Ben Nguyen,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Mauricio Rua,Tyson Pedro,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Mauricio Rua,Tyson Pedro,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Mark Hunt,Justin Willis,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Mark Hunt,Justin Willis,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Keita Nakamura,Salim Touahri,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Keita Nakamura,Salim Touahri,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Junior Dos Santos,Tai Tuivasa,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Junior Dos Santos,Tai Tuivasa,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Jim Crute,Paul Craig,1,2,2,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Jake Matthews,Anthony Martin,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Jake Matthews,Anthony Martin,1,1,1,42
+No,UFC Fight Night,Dos Santos vs. Tuivasa,43435.0,UPCOMING,42,Ashkan Mokhtarian,Kai Kara-France,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Valentina Shevchenko,Joanna Jedrzejczyk,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Valentina Shevchenko,Joanna Jedrzejczyk,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Renato Moicano,Mirsad Bektic,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Renato Moicano,Mirsad Bektic,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Olivier Aubin-Mercier,Gilbert Burns,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Olivier Aubin-Mercier,Gilbert Burns,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Max Holloway,Brian Ortega,1,1,2,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Max Holloway,Brian Ortega,1,1,2,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Katlyn Chookagian,Jessica Eye,1,2,2,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Katlyn Chookagian,Jessica Eye,1,2,2,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,John Makdessi,Diego Ferreira,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,John Makdessi,Diego Ferreira,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Jimi Manuwa,Thiago Santos,1,1,2,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Jimi Manuwa,Thiago Santos,1,1,2,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Hakeem Dawodu,Kyle Bochniak,1,2,2,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Hakeem Dawodu,Kyle Bochniak,1,2,2,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Elias Theodorou,Eryk Anders,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Elias Theodorou,Eryk Anders,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Devin Clark,Aleksandar Rakic,1,2,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Devin Clark,Aleksandar Rakic,1,2,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Claudia Gadelha,Nina Ansaroff,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Claudia Gadelha,Nina Ansaroff,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Chad Laprise,Dhiego Lima,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Chad Laprise,Dhiego Lima,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Brad Katona,Matthew Lopez,1,2,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Brad Katona,Matthew Lopez,1,2,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Alex Oliveira,Gunnar Nelson,1,1,1,42
+No,UFC 231,Holloway vs. Ortega,43442.0,UPCOMING,42,Alex Oliveira,Gunnar Nelson,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Rob Font,Sergio Pettis,1,2,2,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Rob Font,Sergio Pettis,1,2,2,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Kevin Lee,Al Iaquinta,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Kevin Lee,Al Iaquinta,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Jim Miller,Charles Oliveira,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Jim Miller,Charles Oliveira,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Jessica-Rose Clark,Andrea Lee,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Jessica-Rose Clark,Andrea Lee,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Jared Gordon,Joaquim Silva,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Jared Gordon,Joaquim Silva,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Gerald Meerschaert,Jack Hermansson,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Gerald Meerschaert,Jack Hermansson,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Erik Koch,Dwight Grant,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Edson Barboza,Dan Hooker,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Edson Barboza,Dan Hooker,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Dan Ige,Jordan Griffin,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Chris de la Rocha,Juan Adams,1,1,2,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Bobby Green,Drakkar Klose,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Bobby Green,Drakkar Klose,1,1,1,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Adam Milstead,Mike Rodriguez,1,1,2,42
+No,UFC Fight Night,Lee vs. Iaquinta,43449.0,UPCOMING,42,Adam Milstead,Mike Rodriguez,1,1,2,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Uriah Hall,Bevon Lewis,1,1,2,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Uriah Hall,Bevon Lewis,1,1,2,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Tom Duquesnoy,Nathaniel Wood,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Tom Duquesnoy,Nathaniel Wood,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Jon Jones,Alexander Gustafsson,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Jon Jones,Alexander Gustafsson,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Ilir Latifi,Corey Anderson,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Ilir Latifi,Corey Anderson,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Douglas Silva de Andrade,Petr Yan,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Douglas Silva de Andrade,Petr Yan,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Curtis Millender,Siyar Bahadurzada,1,2,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Curtis Millender,Siyar Bahadurzada,1,2,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Cris Cyborg,Amanda Nunes,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Cris Cyborg,Amanda Nunes,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Chad Mendes,Alexander Volkanovski,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Chad Mendes,Alexander Volkanovski,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Cat Zingano,Megan Anderson,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Cat Zingano,Megan Anderson,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Carlos Condit,Michael Chiesa,1,1,2,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Carlos Condit,Michael Chiesa,1,1,2,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,BJ Penn,Ryan Hall,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,BJ Penn,Ryan Hall,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Andrei Arlovski,Walt Harris,1,1,1,42
+No,UFC 232,Jones vs. Gustafsson 2,43463.0,UPCOMING,42,Andrei Arlovski,Walt Harris,1,1,1,42
+No,UFC Fight Night,Brooklyn,43484.0,UPCOMING,42,Paige VanZant,Rachael Ostovich,1,1,2,42
+No,UFC Fight Night,Brooklyn,43484.0,UPCOMING,42,Paige VanZant,Rachael Ostovich,1,1,2,42
+No,UFC Fight Night,Brooklyn,43484.0,UPCOMING,42,Belal Muhammad,Geoff Neal,1,1,1,42
+No,UFC Fight Night,Brooklyn,43484.0,UPCOMING,42,Belal Muhammad,Geoff Neal,1,1,1,42
+No,UFC 233,,43491.0,UPCOMING,42,Robbie Lawler,Ben Askren,1,1,1,42
+No,UFC 233,,43491.0,UPCOMING,42,Paul Felder,James Vick,1,1,1,42
+No,UFC 233,,43491.0,UPCOMING,42,Paul Felder,James Vick,1,1,1,42
+No,UFC 233,,43491.0,UPCOMING,42,Islam Makhachev,Francisco Trinaldo,1,1,2,42
+No,UFC 233,,43491.0,UPCOMING,42,Islam Makhachev,Francisco Trinaldo,1,1,2,42

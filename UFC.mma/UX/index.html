@@ -1,40 +1,318 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width-device-width, initial-scale=1">
     <title>UFC Predictory Template </title>
-    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        body {
+            background: url(WebBanners/main-bg.jpg);
+        }
+
+        .our-team {
+            padding: 30px 0 40px;
+            background: white;
+            text-align: center;
+            overflow: hidden;
+            position: relative;
+            margin-top: 50px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
+
+        .our-team .pic {
+            display: inline-block;
+            width: 180px;
+            height: 180px;
+            margin-bottom: 50px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .our-team .pic:before {
+            content: "";
+            width: 100%;
+            background: #eb1768;
+            position: absolute;
+            bottom: 135%;
+            right: 0;
+            left: 0;
+            transform: scale(3);
+            transition: all 0.3s linear 0s;
+        }
+
+        .our-team:hover .pic:before {
+            height: 100%;
+        }
+
+        .our-team .pic:after {
+            content: "";
+            width: 100%;
+            height: 100%;
+            background: #ee4266;
+            border-radius: 50%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+
+        .our-team .pic img {
+            width: 130px;
+            height: auto;
+            border-radius: 50%;
+            transform: scale(1);
+            transition: all 0.9s ease 0s;
+        }
+
+        .our-team:hover .pic img {
+            box-shadow: 0 0 0 14px #f7f5ec;
+            transform: scale(1.7);
+        }
+
+        .our-team .team-content {
+            margin-bottom: 50px;
+        }
+        
+        .our-team .title {
+            font-size: 22px;
+            font-weight: 700;
+            color: #4e5052;
+            letter-spacing: 1px;
+            text-transform: capitalize;
+            margin-bottom: 5px;
+        }
+
+        .our-team .post {
+            display: block;
+            font-size: 15px;
+            text-transform: capitalize;
+        }
+
+        .our-team .social {
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            background: #eb1768;
+            position: absolute;
+            bottom: -100px;
+            left: 0;
+            transition: all 0.5s ease 0s;
+        }
+
+
+        .our-team:hover .social {
+            bottom: 0px;
+        }
+
+        .our-team:hover .social li {
+            display: inline-block;
+        }
+
+        .our-team:hover .social li a {
+            display: block;
+            padding: 10px;
+            font-size: 17px;
+            color: white;
+            transition: all 0.3s ease 0s;
+        }
+
+        .our-team .social li a:hover {
+            color: #eb1768;
+            background: #f7f5ec;
+            text-decoration: none;
+            transition: all 0.3s ease 0s;
+        }
+
+        .our-team .metrics li {
+            display: block;
+            text-align: left;
+            font-size: 10px;
+        }
+
+        .our-team .career li {
+            display: block;
+            text-align: left;
+            font-size: 10px;
+        }
+        
+        .winner {
+            background: white;
+            margin-top: 50px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            text-transform: capitalize;
+            text-align: center
+        }
+        
+        .winner-content {
+            background: white;
+            text-transform: capitalize;
+            text-align: center;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
+
+
+        .header {
+            padding: 50px;
+        }
+    </style>
 </head>
+
 <body>
 
-<!-- Page Container -->
-<div class="main">
+    <!-- Page Container -->
+    <div class="container">
+        <br>
+        <!-- The Grid -->
+        <div class="row">
+            <!-- Left Column -->
+            <div class="col-md-3 col-md-6">
+                <select class="custom-select d-block w-100">
+                    <option>Jon Jones</option>
+                    <option>Alexander Gustafson</option>
+                    <option>Khabib Narmagamedove</option>
+                    <option>Conor McGregor</option>
+                </select>
 
-  <!-- The Grid -->
-  <div class="grid">
-  
-    <!-- Left Column -->
-    <div class="left-col">
+                <div class="our-team">
+                    <div class="pic">
+                        <img src="./WebBanners/JONES_JON.png" alt="Williamson">
+                    </div>
+                    <div class="team-content">
+                        <h3 class="title">jon-jones</h3>
+                        <span class="post">Bones</span>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-md-6">
+                            <ul class="metrics">
+                                <li><strong>MMA Record:</strong> 23-1-0</li>
+                                <li><strong>Nationality:</strong> USA</li>
+                                <li><strong>Age:</strong> USA</li>
+                                <li><strong>HEIGHT:</strong> --</li>
+                                <li><strong>WEIGHT:</strong> 155 lbs.</li>
+                                <li><strong>REACH:</strong> --</li>
+                                <li><strong>STANCE:</strong> --</li>
+                                <li><strong>DOB:</strong> Jul 13, 1978</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3 col-md-6">
+                            <ul class="career">
+                                <li><strong>SLpM:</strong> 0.00</li>
+                                <li><strong>Str. Acc.:</strong> 0%</li>
+                                <li><strong>SApM:</strong> 0.00</li>
+                                <li><strong>Str. Def:</strong> 0%</li>
+                                <li><strong>TD Avg.:</strong> 0.00</li>
+                                <li><strong>TD Acc.:</strong> 0%</li>
+                                <li><strong>TD Def.:</strong> 0%</li>
+                                <li><strong>Sub. Avg.:</strong> 0.0</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <ul class="social">
+                        <li> <a href="" class="fa fa-facebook"></a> </li>
+                        <li> <a href="" class="fa fa-twitter"></a> </li>
+                        <li> <a href="" class="fa fa-google-plus"></a> </li>
+                        <li> <a href="" class="fa fa-linkedin"></a> </li>
+                    </ul>
+                </div>
 
-    <!-- End Left Column -->
+                <!-- End Left Column -->
+            </div>
+
+            <!-- Right Column -->
+            <div class="col-md-3 col-md-6">
+                <select class="custom-select d-block w-100">
+                    <option>Jon Jones</option>
+                    <option>Alexander Gustafson</option>
+                    <option>Khabib Narmagamedove</option>
+                    <option>Conor McGregor</option>
+                </select>
+
+                <div class="our-team">
+                    <div class="pic">
+                        <img src="./WebBanners/GUSTAFSSON_ALEXANDER_stockholm.png" alt="Williamson">
+                    </div>
+                    <div class="team-content">
+                        <h3 class="title">alexander-gustafsson</h3>
+                        <span class="post">The Mauler</span>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-md-6">
+                            <ul class="metrics">
+                                <li><strong>MMA Record:</strong> 23-1-0</li>
+                                <li><strong>Nationality:</strong> USA</li>
+                                <li><strong>Age:</strong> USA</li>
+                                <li><strong>HEIGHT:</strong> --</li>
+                                <li><strong>WEIGHT:</strong> 155 lbs.</li>
+                                <li><strong>REACH:</strong> --</li>
+                                <li><strong>STANCE:</strong> --</li>
+                                <li><strong>DOB:</strong> Jul 13, 1978</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3 col-md-6">
+                            <ul class="career">
+                                <li><strong>SLpM:</strong> 0.00</li>
+                                <li><strong>Str. Acc.:</strong> 0%</li>
+                                <li><strong>SApM:</strong> 0.00</li>
+                                <li><strong>Str. Def:</strong> 0%</li>
+                                <li><strong>TD Avg.:</strong> 0.00</li>
+                                <li><strong>TD Acc.:</strong> 0%</li>
+                                <li><strong>TD Def.:</strong> 0%</li>
+                                <li><strong>Sub. Avg.:</strong> 0.0</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <ul class="social">
+                        <li> <a href="" class="fa fa-facebook"></a> </li>
+                        <li> <a href="" class="fa fa-twitter"></a> </li>
+                        <li> <a href="" class="fa fa-google-plus"></a> </li>
+                        <li> <a href="" class="fa fa-linkedin"></a> </li>
+                    </ul>
+                </div>
+                <!-- End Right Column -->
+            </div>
+
+            <!-- End Grid -->
+        </div>
+        <div class="row">
+            <!-- Right Column -->
+            <div class="col-md-12">
+                <div class="winner">
+                    <h3 class="title">Predicted Winner</h3>
+                </div>
+                <div class="winner-content">
+                    <div class="pic">
+                        <img src="./WebBanners/alexander-gustafsson_1119_FighterProfile_30.png" alt="Williamson">
+                    </div>
+                    <div class="winner-content">
+                        <h3 class="title">alexander-gustafsson</h3>
+                    </div>
+                </div>
+                <!-- End Right Column -->
+            </div>
+
+            <!-- End Grid -->
+        </div>
+        <!-- End Page Container -->
     </div>
 
-    <!-- Right Column -->
-    <div class = "right">
- 
-    <!-- End Right Column -->
-    </div>
-    
-  <!-- End Grid -->
-  </div>
-  
-  <!-- End Page Container -->
-</div>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
-<footer>
-
-</footer>
 
 </body>
+
 </html>
