@@ -1,1 +1,1 @@
-![alt text](UFC_Predictory_Template.PNG)
+![alt text](./UFC_Predictor_Template.png)
